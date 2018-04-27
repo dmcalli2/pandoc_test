@@ -40,7 +40,7 @@ Of the 2172 trials selected for this research and registered on the PROSPERO sys
 Figure 1 OMB Race categories in selected trials. Boxplots indicate distribution across the trials for the percentage of participants in that category in each trial
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="\media/media/image1.png" width="601" height="429" />
+<img src="images/media/image1.png" width="601" height="429" />
 
 On the basis of this observed distribution, we will use “White” as the reference category, as this is the commonest grouping, with indicator variables for “Asian”, “Black or African American”. We will also use a single indicator variable of “Other” for the remaining categories as these are uncommon.
 
